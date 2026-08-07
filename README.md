@@ -1,5 +1,36 @@
 <div align="center">
 
+  <!-- 1. TOP GIANT BANNER GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A1dHhpaGU4ZGRmNmVsOTF1Zm1qYXdtbnBrb3ZvZGJpOXV2b2l6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4eSTp8HK/giphy.gif" width="100%" />
+
+  <br/><br/>
+
+  <!-- HEADER TEXT -->
+  <h1>⚡ WELCOME TO THE DOMAIN ⚡</h1>
+  <p><b><code>[STATUS: OVERCLOCKING CODE 24/7]</code></b></p>
+
+  <br/>
+
+  <!-- 2. MIDDLE GIF BANNER -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ1OGsydGFndnRpZHQydWtwZnk1OHFkOWc4aXFna2NpaXExZHkyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vA5mj9vFWy1Mg/giphy.gif" width="100%" />
+
+  <br/><br/>
+
+  <!-- STATS CARDS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false&bg_color=000000" width="80%" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&background=000000" width="80%" />
+
+  <br/><br/>
+
+  <!-- 3. BOTTOM GIANT BANNER GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4yNzQ1aHQ0NDBndDlydTNudTRnMzU0Ymg0NmZwbWN3cnZqZTZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3V9M4f3atJ32/giphy.gif" width="100%" />
+
+</div>
+<div align="center">
+
   <!-- HYPER-NEON RGB ANIMATED HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007F,25:9900FF,50:00FFFF,75:00FF00,100:FFD700&height=220&section=header&text=⚡%20WELCOME%20TO%20THE%20DOMAIN%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
