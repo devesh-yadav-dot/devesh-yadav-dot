@@ -5,7 +5,7 @@
 <!-- This table wraps EVERYTHING and has a blurred, repeating -->
 <!-- Garou flexing background image. -->
 <!-- ============================================= -->
-<table background="https://i.giphy.com/media/b9A5w6Yc8Z7G9oZ9iL/giphy.gif" style="background-size: cover; background-repeat: repeat; backdrop-filter: blur(8px); padding: 20px;" width="100%">
+<table background="https://github.com/devesh-yadav-dot/devesh-yadav-dot/blob/main/assets/One%20Piece%20Girls.jpg" style="background-size: cover; background-repeat: repeat; backdrop-filter: blur(8px); padding: 20px;" width="100%">
   <tr>
     <td>
 
