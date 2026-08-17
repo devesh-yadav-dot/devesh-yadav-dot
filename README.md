@@ -30,6 +30,8 @@ graph LR
     C --> G[📈 Visualization]
     D --> H[🛠️ ETL Pipelines]
     E --> I[📉 Predictive Models]
+```
+```
 # 🌿 My Life in Code
 class DeveshKumarYadav:
     def __init__(self):
