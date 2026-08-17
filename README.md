@@ -1,3 +1,4 @@
+```
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Devesh+Kumar+Yadav;🌲+Forest+of+Code+🌲;AI+%26+Data+Enthusiast;" />
 </h1>
@@ -16,7 +17,7 @@
 </p>
 
 ---
-
+```
 ## 🌲 **About Me - The Forest Explorer**
 
 ```mermaid
