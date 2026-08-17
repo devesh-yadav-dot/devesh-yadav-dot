@@ -1,4 +1,3 @@
-```
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Devesh+Kumar+Yadav;🌲+Forest+of+Code+🌲;AI+%26+Data+Enthusiast;" />
 </h1>
@@ -17,8 +16,8 @@
 </p>
 
 ---
-```
-## 🌲 **About Me - The Forest Explorer**
+
+## 🌲 About Me - The Forest Explorer
 
 ```mermaid
 graph LR
@@ -33,9 +32,11 @@ graph LR
     E --> I[📉 Predictive Models]
 ```
 
+---
+
 ## 🌿 My Life in Code
 
-```
+```text
 class DeveshKumarYadav:
     def __init__(self):
         self.name = "Devesh Kumar Yadav"
@@ -55,29 +56,9 @@ class DeveshKumarYadav:
         return "Namaste! 🙏 Let's build something amazing!"
 ```
 
-## 🔥 What I'm Currently Growing
-
-```
-const deveshForest = {
-    currentlyLearning: [
-        "Deep Learning Architectures 🧠",
-        "Big Data Technologies (Hadoop, Spark) ⚡",
-        "MLOps & Model Deployment 🚀",
-        "Advanced SQL & Data Warehousing 🏗️"
-    ],
-
-    currentProjects: [
-        "🌲 Forest Fire Prediction using ML",
-        "📊 Real-time Data Pipeline",
-        "🤖 AI Chatbot for Education"
-    ],
-
-    collaboration: "Open to AI/Data Science projects! 🤝"
-};
-```
+---
 
 ## 🛠️ My Tech Forest - Tools & Languages
-# 🛠️ My Tech Forest - Tools & Languages
 
 ### 🌿 Programming Languages
 
@@ -159,7 +140,7 @@ const deveshForest = {
 
 # 🔥 What I'm Currently Growing
 
-```javascript
+```text
 const deveshForest = {
     currentlyLearning: [
         "Deep Learning Architectures 🧠",
@@ -262,4 +243,3 @@ Java       ███░░░░░░░░░░░░░░░░░░   11.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&lines=🌿+Keep+Coding!;🌳+Keep+Growing!;🚀+Keep+Exploring!;💚+Stay+Green!" />
 </p>
-```
