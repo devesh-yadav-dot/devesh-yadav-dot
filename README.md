@@ -32,8 +32,9 @@ graph LR
     E --> I[📉 Predictive Models]
 ```
 
-```python 
-# 🌿 My Life in Code
+## 🌿 My Life in Code
+
+```
 class DeveshKumarYadav:
     def __init__(self):
         self.name = "Devesh Kumar Yadav"
@@ -51,8 +52,30 @@ class DeveshKumarYadav:
 
     def say_hi(self):
         return "Namaste! 🙏 Let's build something amazing!"
+```
+
+## 🔥 What I'm Currently Growing
 
 ```
+const deveshForest = {
+    currentlyLearning: [
+        "Deep Learning Architectures 🧠",
+        "Big Data Technologies (Hadoop, Spark) ⚡",
+        "MLOps & Model Deployment 🚀",
+        "Advanced SQL & Data Warehousing 🏗️"
+    ],
+
+    currentProjects: [
+        "🌲 Forest Fire Prediction using ML",
+        "📊 Real-time Data Pipeline",
+        "🤖 AI Chatbot for Education"
+    ],
+
+    collaboration: "Open to AI/Data Science projects! 🤝"
+};
+```
+
+## 🛠️ My Tech Forest - Tools & Languages
 # 🛠️ My Tech Forest - Tools & Languages
 
 ### 🌿 Programming Languages
