@@ -111,28 +111,6 @@ B.Tech Student — AI & DS
   🤝 <b>Open to AI & Data Science projects!</b>
 </p>
 
-## 🌿 My Life in Code
-
-```text
-class DeveshKumarYadav:
-    def __init__(self):
-        self.name = "Devesh Kumar Yadav"
-        self.location = "🌏 New Delhi, India"
-        self.role = "🎓 B.Tech Student - AI & DS"
-
-        self.aspirations = [
-            "AI Engineering",
-            "Data Analysis",
-            "Data Engineering",
-            "Data Science"
-        ]
-
-        self.motto = "🌲 Growing knowledge, one commit at a time!"
-
-    def say_hi(self):
-        return "Namaste! 🙏 Let's build something amazing!"
-```
-
 ---
 
 ## 🛠️ My Tech Forest - Tools & Languages
@@ -212,29 +190,6 @@ class DeveshKumarYadav:
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=forest&quoteCategory=programming&quoteCategory=inspirational" />
 </p>
-
----
-
-# 🔥 What I'm Currently Growing
-
-```text
-const deveshForest = {
-    currentlyLearning: [
-        "Deep Learning Architectures 🧠",
-        "Big Data Technologies (Hadoop, Spark) ⚡",
-        "MLOps & Model Deployment 🚀",
-        "Advanced SQL & Data Warehousing 🏗️"
-    ],
-
-    currentProjects: [
-        "🌲 Forest Fire Prediction using ML",
-        "📊 Real-time Data Pipeline",
-        "🤖 AI Chatbot for Education"
-    ],
-
-    collaboration: "Open to AI/Data Science projects! 🤝"
-};
-```
 
 ---
 
