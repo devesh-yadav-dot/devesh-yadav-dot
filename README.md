@@ -32,7 +32,7 @@ graph LR
     E --> I[📉 Predictive Models]
 ```
 
-
+```python 
 # 🌿 My Life in Code
 class DeveshKumarYadav:
     def __init__(self):
@@ -52,7 +52,7 @@ class DeveshKumarYadav:
     def say_hi(self):
         return "Namaste! 🙏 Let's build something amazing!"
 
-
+```
 # 🛠️ My Tech Forest - Tools & Languages
 
 ### 🌿 Programming Languages
