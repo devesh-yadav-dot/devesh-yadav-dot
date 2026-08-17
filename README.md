@@ -36,6 +36,83 @@ graph LR
 
 ## 🌿 My Life in Code
 
+<p align="center">
+  🌲 <b>Growing knowledge, one commit at a time!</b> 🌲
+</p>
+
+<table align="center">
+<tr>
+<td>
+
+🎓 **Name**  
+Devesh Kumar Yadav
+
+</td>
+<td>
+
+🌏 **Location**  
+New Delhi, India
+
+</td>
+<td>
+
+📚 **Role**  
+B.Tech Student — AI & DS
+
+</td>
+</tr>
+</table>
+
+### 🌱 My Aspirations
+
+<p align="center">
+
+🌳 **AI Engineering** &nbsp; • &nbsp;
+📊 **Data Analysis** &nbsp; • &nbsp;
+⚙️ **Data Engineering** &nbsp; • &nbsp;
+🔬 **Data Science**
+
+</p>
+
+<p align="center">
+  <i>🙏 Namaste! Let's build something amazing!</i>
+</p>
+
+---
+
+## 🔥 What I'm Currently Growing
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Currently Learning
+
+- 🧠 Deep Learning Architectures
+- ⚡ Big Data — Hadoop & Spark
+- 🚀 MLOps & Model Deployment
+- 🏗️ Advanced SQL & Data Warehousing
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🚀 Current Projects
+
+- 🌲 Forest Fire Prediction using ML
+- 📊 Real-time Data Pipeline
+- 🤖 AI Chatbot for Education
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  🤝 <b>Open to AI & Data Science projects!</b>
+</p>
+
+## 🌿 My Life in Code
+
 ```text
 class DeveshKumarYadav:
     def __init__(self):
