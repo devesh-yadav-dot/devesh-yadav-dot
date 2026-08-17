@@ -162,15 +162,26 @@ B.Tech Student — AI & DS
 
 ---
 
+---
+
 # 📊 GitHub Forest Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devesh-yadav-dot&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&icon_color=2e7d32&text_color=81c784" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-yadav-dot&theme=merko&hide_border=true&background=0d1117&stroke=2e7d32&ring=4caf50&fire=66bb6a&currStreakNum=81c784&sideNums=81c784&currStreakLabel=4caf50&sideLabels=4caf50&dates=81c784" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=devesh-yadav-dot&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&icon_color=2e7d32&text_color=81c784"
+    width="49%"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=devesh-yadav-dot&theme=merko&hide_border=true&background=0d1117&stroke=2e7d32&ring=4caf50&fire=66bb6a&currStreakNum=81c784&sideNums=81c784&currStreakLabel=4caf50&sideLabels=4caf50&dates=81c784"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-yadav-dot&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&text_color=81c784" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-yadav-dot&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&text_color=81c784"
+    width="60%"
+  />
 </p>
 
 <!-- SNAKE ANIMATION EATING CONTRIBUTIONS -->
