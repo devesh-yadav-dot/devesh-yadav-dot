@@ -167,22 +167,33 @@ B.Tech Student — AI & DS
 # 📊 GitHub Forest Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=devesh-yadav-dot&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&icon_color=2e7d32&text_color=81c784"
-    width="49%"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=devesh-yadav-dot&theme=merko&hide_border=true&background=0d1117&stroke=2e7d32&ring=4caf50&fire=66bb6a&currStreakNum=81c784&sideNums=81c784&currStreakLabel=4caf50&sideLabels=4caf50&dates=81c784"
-    width="49%"
-  />
+
+  <img src="https://img.shields.io/github/followers/devesh-yadav-dot?style=for-the-badge&logo=github&label=Forest%20Followers&color=2e7d32" />
+
+  <img src="https://img.shields.io/github/stars/devesh-yadav-dot?style=for-the-badge&logo=github&label=Forest%20Stars&color=4caf50" />
+
+  <img src="https://img.shields.io/github/repos/devesh-yadav-dot?style=for-the-badge&logo=github&label=Repositories&color=1b5e20" />
+
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-yadav-dot&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=4caf50&text_color=81c784"
-    width="60%"
-  />
+
+  🌱 <b>Every repository is another tree in the forest.</b> 🌱
+
 </p>
+
+<p align="center">
+
+  <a href="https://github.com/devesh-yadav-dot?tab=repositories">
+    <img src="https://img.shields.io/badge/🌲-Explore%20My%20Repositories-2e7d32?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/devesh-yadav-dot?tab=stars">
+    <img src="https://img.shields.io/badge/⭐-My%20Starred%20Projects-4caf50?style=for-the-badge" />
+  </a>
+
+</p>
+
 
 <!-- SNAKE ANIMATION EATING CONTRIBUTIONS -->
 
