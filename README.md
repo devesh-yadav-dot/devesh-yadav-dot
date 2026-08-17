@@ -239,10 +239,18 @@ B.Tech Student — AI & DS
 
 ---
 
-# 🏆 GitHub Trophies - Forest Edition
+# 🏆 Forest Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devesh-yadav-dot&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true&bg_color=0d1117" />
+
+  <img src="https://img.shields.io/badge/🌱-Always%20Learning-4caf50?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/🌳-Building%20Projects-2e7d32?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/🤖-AI%20Enthusiast-1b5e20?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/📊-Data%20Explorer-4caf50?style=for-the-badge" />
+
 </p>
 
 ---
